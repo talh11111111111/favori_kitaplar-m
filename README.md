@@ -1,4 +1,4 @@
-# the_books
+# favori_kitaplarım
 
 Google Books API ile Kitap Listesi Uygulaması
 Bu Flutter uygulaması, Google Books API kullanarak kitap listesi çeken ve kullanıcının istediği kitapları yerel veritabanına kaydedip silebilen bir mobil uygulamadır. Uygulama, Riverpod kütüphanesini kullanarak state management sağlar ve Hive veritabanını kullanarak yerel verileri saklar.
