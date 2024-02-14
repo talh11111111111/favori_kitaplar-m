@@ -1,3 +1,5 @@
+//Kaynak kodları master klasörünün içindedir..
+
 # favori_kitaplar-m
 
 Google Books API ile Kitap Listesi Uygulaması
@@ -13,3 +15,8 @@ Flutter: UI oluşturmak ve uygulama geliştirmek için kullanıldı.
 Riverpod: State management için kullanıldı.
 Hive: Yerel veritabanı olarak kullanıldı.
 Google Books API: Kitap verilerini almak için kullanıldı.
+
+uygulama videosu 
+
+https://github.com/talh11111111111/favori_kitaplar-m/assets/116001386/01e4873c-4403-44b9-b723-d1fbee19504a
+
